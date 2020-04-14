@@ -8,6 +8,7 @@
                         'Elixir.AwsWarehouse.DataCase',
                         'Elixir.AwsWarehouse.Inventory',
                         'Elixir.AwsWarehouse.Inventory.Product',
+                        'Elixir.AwsWarehouse.ReleaseTasks',
                         'Elixir.AwsWarehouse.Repo','Elixir.AwsWarehouseWeb',
                         'Elixir.AwsWarehouseWeb.ChannelCase',
                         'Elixir.AwsWarehouseWeb.ConnCase',
